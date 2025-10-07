@@ -86,3 +86,7 @@ Meu objetivo é construir uma carreira que una **arte e engenharia**, desenvolve
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/artstation.svg" width="48" alt="ArtStation" style="filter: invert(1); margin-left: 10px;"/>
   </a>
 </p>
+<hr>
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
