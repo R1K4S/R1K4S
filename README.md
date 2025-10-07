@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/zG1RkEc.png" width="100%" alt="banner criativo com tema de tecnologia e jogos"/>
-
 <h1 align="center">🎮 Olá, eu sou o Ricardo!</h1>
 <h3 align="center">🚀 Estudante de Engenharia de Software na UnB | Game Developer & UX Enthusiast 🎨</h3>
 
@@ -55,8 +52,8 @@ Meu objetivo é construir uma carreira que una **arte e engenharia**, desenvolve
 ### 📊 GitHub Status
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=R1K4S&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-R1K4S&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
