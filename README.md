@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/91/1c/f0/911cf001b96668991ac9376d6e595f0b.jpg" style="max-width:100%; width:400px; height:auto;" alt="Wallpaper do projeto">
+  <img src="https://i.pinimg.com/736x/91/1c/f0/911cf001b96668991ac9376d6e595f0b.jpg" style="height:100%; height:400px; witdh:auto;" alt="Wallpaper do projeto">
 </p>
 <h1 align="center">🎮 Olá,prazer sou Rikas!</h1>
 <h3 align="center">🚀 Estudante de Engenharia de Software na UnB | Game Developer & UX Enthusiast 🎨</h3>
