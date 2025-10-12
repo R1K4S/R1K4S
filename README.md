@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/91/1c/f0/911cf001b96668991ac9376d6e595f0b.jpg" style="height:100%; height:400px; witdh:auto;" alt="Wallpaper do projeto">
+  <img src="https://i.pinimg.com/1200x/d1/78/1f/d1781fb39d618b8b6ea1cd318dc3b0e1.jpg" style="height:100%; height:400px; witdh:auto;" alt="Wallpaper do projeto">
 </p>
 <h1 align="center">🎮 Olá,prazer sou Rikas!</h1>
 <h3 align="center">🚀 Estudante de Engenharia de Software na UnB | Game Developer & UX Enthusiast 🎨</h3>
 
 ---
-<img src="![Uploading image.png…]()
+<img src="<img width="1200" height="720" alt="image" src="https://github.com/user-attachments/assets/22824dd5-c70c-4152-aceb-a21abcc93ab4" />
 " />
 ### 🧠 Sobre Mim
 
