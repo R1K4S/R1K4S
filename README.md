@@ -1,8 +1,9 @@
-<h1 align="center">🎮 Olá,prazer sou Rikas!</h1>
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/cad45c33-c7fe-42f2-adc7-13621fbd3a80" /><h1 align="center">🎮 Olá,prazer sou Rikas!</h1>
 <h3 align="center">🚀 Estudante de Engenharia de Software na UnB | Game Developer & UX Enthusiast 🎨</h3>
 
 ---
-
+<img src="![Uploading image.png…]()
+" />
 ### 🧠 Sobre Mim
 
 Sou um estudante de **Engenharia de Software na UnB** apaixonado por criar **soluções inovadoras e envolventes**.  
