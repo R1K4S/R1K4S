@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Estudante de Engenharia de Software na UnB | Game Developer & UX Enthusiast 🎨</h3>
 
 ---
-### 🧠 Sobre Mim
+### Sobre Mim
 
 Sou um estudante de **Engenharia de Software na UnB** apaixonado por criar **soluções inovadoras e envolventes**.  
 Com raízes na **programação de jogos e gamificação**, gosto de unir **design, tecnologia e criatividade** para desenvolver experiências positivas e marcantes.
@@ -14,7 +14,7 @@ Meu objetivo é construir uma carreira que una **arte e engenharia**, desenvolve
 
 ---
 
-### 🎯 Interesses e Foco
+### Interesses e Foco
 
 - 🕹️ **Game Development & Gamificação**
 - 🎨 **UX / UI Design**
@@ -23,7 +23,7 @@ Meu objetivo é construir uma carreira que una **arte e engenharia**, desenvolve
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 #### 💻 Linguagens
 <p align="center">
@@ -42,7 +42,7 @@ Meu objetivo é construir uma carreira que una **arte e engenharia**, desenvolve
 
 ---
 
-### 🌟 Experiência em Projetos
+### Experiência em Projetos
 
 - 🧩 Desenvolvimento de sistemas em **C, C++, Python e JavaScript**
 - 🎮 Criação de **projetos interativos** com **Flutter, TypeScript e HTML/CSS**
